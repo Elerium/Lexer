@@ -1,5 +1,5 @@
-# Elerium\Lexer #
-Lexical analysis tool for PHP
+# Elerium\Lexer [![Build Status](https://travis-ci.org/Elerium/Lexer.png)](https://travis-ci.org/Elerium/Lexer) #
+Lexical analysis tool for PHP.
 
 ## Usage ##
 
